@@ -10,6 +10,21 @@
 - 🤝 Matching Algorithm
 - 📱 Responsive Mobile Design
 
+Future plans:
+- Age filter
+- Time, status in messages
+- Bio filter(maybe with AI tool)
+- Region filter(geolocation and radius)
+- Redis useage
+- microservise architecture + upgrage modules
+- better upload(paginations)
+- Mods(To find parther or find friends)
+- Збірник колоди(один раз в день як окримий сервіс в кеші - перевірка чи не змінилися префернс)
+- Kafka
+- 
+-try to immigrate to Postgres(PostGIS   ACID bag) an Java Spring(migration)
+-clondinary to Amazon S3(CDN)
+
 ### Setup .env file
 
 ```bash
