@@ -11,6 +11,7 @@
 - 📱 Responsive Mobile Design
 
 Future plans:
+- Back to pass persons
 - Age filter
 - Time, status in messages
 - Bio filter(maybe with AI tool)
@@ -21,7 +22,7 @@ Future plans:
 - Mods(To find parther or find friends)
 - Збірник колоди(один раз в день як окримий сервіс в кеші - перевірка чи не змінилися префернс)
 - Kafka
-- 
+  
 -try to immigrate to Postgres(PostGIS   ACID bag) an Java Spring(migration)
 -clondinary to Amazon S3(CDN)
 
