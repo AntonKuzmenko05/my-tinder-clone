@@ -25,6 +25,9 @@ Future plans:
   
 -try to immigrate to Postgres(PostGIS   ACID bag) an Java Spring(migration)
 -clondinary to Amazon S3(CDN)
+-docker
+-nginx
+-try sessions not webtocken
 
 ### Setup .env file
 
